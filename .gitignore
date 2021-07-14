@@ -1,2 +1,8 @@
 # no mlnet models
 *.zip
+
+# no .csv
+*.csv
+
+# no .tsv
+*.tsv
